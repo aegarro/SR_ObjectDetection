@@ -1,0 +1,26 @@
+<annotation>
+	<folder>apple_images</folder>
+	<filename>apple_88.jpg</filename>
+	<path>/Users/AlexGarro/Desktop/apple_images/apple_88.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>410</width>
+		<height>230</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>25</ymin>
+			<xmax>253</xmax>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>
