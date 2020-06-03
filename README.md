@@ -1,6 +1,7 @@
 # SR_ObjectDetection
 
-Senior Research: Object Detection 
+Senior Research: Object Detection
+
 Student: Alexandra Garro
 
 
